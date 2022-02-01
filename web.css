@@ -1,0 +1,30 @@
+p{
+font-size:25px;
+color:white;
+}
+html{
+scroll-behaviour:smooth;
+}
+h1{
+color:white;
+    text-align:center;
+}
+h3{
+color:white;
+    text-align: center;
+}
+body{
+background-color:black;
+    text-align:justify;
+}
+h2{
+color:white;
+    text-align:center;
+}
+
+#end{
+    color:red;
+}
+#mail{
+color:darkgreen;
+}
